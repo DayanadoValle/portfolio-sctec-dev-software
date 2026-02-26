@@ -51,7 +51,8 @@ O portfólio reúne diferentes tipos de projetos criados durante o curso, inclui
    - Não é necessário instalar dependências externas.
  	- O projeto funciona apenas com HTML, CSS e JavaScript puro.
 
-### Você também pode acessar diretamente aqui:(#)
+###  Acesse aqui o repositório completo aqui(#)
+### 👉 Acesse aqui a versão publicada do site(#)
 
 ## 📑 Documentação
 Este README cumpre os requisitos da atividade prática extra:
