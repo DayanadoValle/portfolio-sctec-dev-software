@@ -67,8 +67,10 @@ Mais de 800 caracteres
 Uso de HTML, CSS e JavaScript
 Projeto funcional e executável
 
-## 👩‍💻 Autora
-Desenvolvido por Dayana do Valle
 
-💻 GitHub: DayanadoValle
-🔗 LinkedIn: Dayana do Valle
+## 👩‍💻 Autora  
+Desenvolvido por **Dayana do Valle**  
+- GitHub: [DayanadoValle](https://github.com/DayanadoValle)  
+- LinkedIn: [Dayana do Valle](https://www.linkedin.com/in/dayana-do-valle/)  
+
+---
