@@ -51,7 +51,7 @@ O portfólio reúne diferentes tipos de projetos criados durante o curso, inclui
    - Não é necessário instalar dependências externas.
  	- O projeto funciona apenas com HTML, CSS e JavaScript puro.
 
-###  Acesse aqui o repositório completo aqui(#)
+###  Acesse aqui o repositório completo aqui(https://github.com/DayanadoValle/portfolio-sctec-dev-software)
 ### 👉 Acesse aqui a versão publicada do site(#)
 
 ## 📑 Documentação
