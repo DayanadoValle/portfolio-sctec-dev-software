@@ -24,34 +24,45 @@ A landing page contém as seguintes seções principais:
 1. **Header** → Nome e botão de menu lateral (hambúrguer)  
 2. **Sobre Mim** → Foto, descrição pessoal e apresentação  
 3. **Habilidades** → Técnicas e comportamentais  
-4. **Projetos** → Lista de projetos com nome, descrição, tecnologias utilizadas e link de demonstração (quando disponível)  
+4. **Projetos** → Lista de projetos desenvolvidos ao longo do curso, cada um com nome, breve descrição, tecnologias utilizadas e link de demonstração (quando disponível)  
 5. **Footer** → Links sociais e créditos  
 
 ---
 
 ## ✨ Projetos Apresentados  
-- 📝 **CRUD To-Do List** → Aplicação para gerenciar tarefas (HTML, CSS, JS)  
-- 🌍 **Saudação por Idioma** → Exibe mensagens dinâmicas em diferentes línguas (HTML, JS)  
-- 🎲 **Sorteador de Nomes** → Sorteio aleatório com exclusão de nomes já usados (HTML, CSS, JS)  
-- 🍕 **Pizzaria da Day** → Simulação de pedidos com cardápio interativo (HTML, CSS, JS)  
-- 🐾 **PetShop Mimo & Cia** → Site institucional responsivo (HTML, CSS)  
-- 💻 **DevPortfólio Full Stack** → Portfólio profissional responsivo (HTML, CSS, JS)  
-- ✨ **Estrelas Próximas da Terra** → Projeto realizado no curso de Front-End da [Programaria](https://www.programaria.org/)  
+O portfólio reúne diferentes tipos de projetos criados durante o curso, incluindo:  
+- Exercícios práticos de lógica e manipulação de DOM  
+- Desafios temáticos (calculadora, saudações, CRUD de tarefas etc.)  
+- Projetos desenvolvidos em **lives**  
+- Experimentos e extras para consolidar o aprendizado  
 
 ---
 
-## 📑 Documentação  
-Este README cumpre os requisitos da atividade prática extra:  
-- Mais de **800 caracteres**  
-- Uso de **HTML, CSS e JavaScript**  
-- Projeto funcional e executável  
+## ▶️ Como Executar  
 
----
+1. **Clone o repositório**:  
+   ```bash
+   git clone https://github.com/DayanadoValle/portfolio-sctec-dev-software.git
+   
+2. 	**Acesse a pasta do projeto**:
+   cd portfolio-sctec-dev-software
 
-## 👩‍💻 Autora  
-Desenvolvido por **Dayana do Valle**  
-- 🌐 Portfólio: [dayanadovalleportfolio2023.netlify.app](https://dayanadovalleportfolio2023.netlify.app/)  
-- 💻 GitHub: [DayanadoValle](https://github.com/DayanadoValle)  
-- 🔗 LinkedIn: [Dayana do Valle](https://www.linkedin.com/in/dayana-do-valle/)  
+2. 	Acesse a pasta do projeto:
 
----
+3. 	Abra o arquivo principal () em qualquer navegador moderno.
+   Não é necessário instalar dependências externas.
+ 	O projeto funciona apenas com HTML, CSS e JavaScript puro.
+👉 Você também pode acessar diretamente aqui:(#)
+
+## 📑 Documentação
+Este README cumpre os requisitos da atividade prática extra:
+
+Mais de 800 caracteres
+Uso de HTML, CSS e JavaScript
+Projeto funcional e executável
+
+## 👩‍💻 Autora
+Desenvolvido por Dayana do Valle
+
+💻 GitHub: DayanadoValle
+🔗 LinkedIn: Dayana do Valle
