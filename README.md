@@ -50,7 +50,8 @@ O portfólio reúne diferentes tipos de projetos criados durante o curso, inclui
 3. **Abra o arquivo principal (index.html)** em qualquer navegador moderno.
    - Não é necessário instalar dependências externas.
  	- O projeto funciona apenas com HTML, CSS e JavaScript puro.
-   -  Você também pode acessar diretamente aqui:(#)
+
+### Você também pode acessar diretamente aqui:(#)
 
 ## 📑 Documentação
 Este README cumpre os requisitos da atividade prática extra:
