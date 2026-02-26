@@ -47,9 +47,7 @@ O portfólio reúne diferentes tipos de projetos criados durante o curso, inclui
 2. 	**Acesse a pasta do projeto**:
    cd portfolio-sctec-dev-software
 
-2. 	Acesse a pasta do projeto:
-
-3. 	Abra o arquivo principal () em qualquer navegador moderno.
+3. 	Abra o arquivo principal (index.html) em qualquer navegador moderno.
    Não é necessário instalar dependências externas.
  	O projeto funciona apenas com HTML, CSS e JavaScript puro.
 👉 Você também pode acessar diretamente aqui:(#)
